@@ -1,0 +1,26 @@
+{
+  "name": "ds881-curriculo-grr20235618",
+  "version": "1.0.0",
+  "description": "Este repositório é um **template** para a atividade prática individual da disciplina DS881. O objetivo é aplicar conceitos de conteinerização, automação de pipeline CI/CD e governança de código em um cenário de projeto real (seu currículo ou portfólio profissional).",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomazcx/ds881-curriculo-GRR20235618.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/tomazcx/ds881-curriculo-GRR20235618/issues"
+  },
+  "homepage": "https://github.com/tomazcx/ds881-curriculo-GRR20235618#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
