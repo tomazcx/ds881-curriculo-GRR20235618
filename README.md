@@ -49,4 +49,4 @@ A branch `main` está configurada com as seguintes regras:
 
 ### Evidência
 
-> Adicione aqui o print de `Settings → Branches → Branch protection rules` comprovando a configuração.
+![alt text](image.png)
